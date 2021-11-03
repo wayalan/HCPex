@@ -1,4 +1,4 @@
-# HCPex (Prerelease Version)
+# HCPex
 An extended Human Connectome Project multimodal parcellation atlas of the human cortex and subcortical areas
 
 <img width="2329" alt="截圖 2021-11-03 下午12 05 50" src="https://user-images.githubusercontent.com/39726864/140008713-98975a3b-4cc7-4171-bceb-9d00ffc67892.png">
