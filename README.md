@@ -7,4 +7,10 @@ HCPex is an extended version of the original atlas in which 66 subcortical areas
 
 <img width="1914" alt="截圖 2021-11-03 下午12 21 23" src="https://user-images.githubusercontent.com/39726864/140009644-04b06a8a-72dd-4f9f-85cb-98ed487ae660.png">
 
-Please note that the HCPex is not published yet, and will not make it available before publication. However, we allow members of ISTBI to ask for a pre-release version, which should not be distributed to anyone else until it is published. Please write an email to czhuang@psy.ecnu.edu.cn and copy to Edmund.Rolls@oxcns.org to ask for access to the HCPex prerelease version.
+Please also cite the relevant references below if HCPex helps your research:
+1. https://link.springer.com/article/10.1007/s00429-021-02421-6
+2. https://academic.oup.com/HTTPHandlers/Sigma/LoginHandler.ashx?error=login_required&state=0b401586-7421-405e-aa53-5848dffc4081redirecturl%3Dhttpszazjzjacademiczwoupzwcomzjcercorzjarticlezylookupzjdoizj10zw1093zjcercorzjbhab113
+
+
+
+Please write an email to czhuang@psy.ecnu.edu.cn and copy to Edmund.Rolls@oxcns.org if you have any question using the HCPex.
